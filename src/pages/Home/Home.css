@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('https://img.freepik.com/free-vector/low-poly-white-background-design_1017-33204.jpg?w=2000');
+   
+}
+.description{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 300px;
+  font-size: 30px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}

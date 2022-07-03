@@ -1,0 +1,15 @@
+.movies{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.img{
+    width: 400px;
+    height: 700px; 
+}
+.h4{
+    background: red;
+}
